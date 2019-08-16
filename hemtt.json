@@ -1,0 +1,9 @@
+{
+  "name": "twc_hawk",
+  "prefix": "TWCH",
+  "author": "Bosenator",
+  "files": [
+    "mod.cpp"
+  ],
+  "sigversion": 3
+}
