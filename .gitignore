@@ -14,4 +14,14 @@ bld/
 **/*.rs.bk
 include/
 
+@*
+*.zip
+*.cache
+*.pbo
+texHeaders.bin
+*.swp
+*.swo
+*.biprivatekey
+Thumbs.db
+
 hemtt.exe
