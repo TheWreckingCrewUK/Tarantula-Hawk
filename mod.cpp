@@ -1,3 +1,13 @@
 name = "twc_hawk";
 dir = "@TWCH";
-author = "Bosenator";
+author = "TheWreckingCrew.eu";
+picture = "twch_logo_ca.paa";
+actionName = "GitHub";
+action = "https://github.com/TheWreckingCrewUK/Tarantula-Hawk";
+description = "Tarantula Hawk";
+logo = "twch_logo_ca.paa";
+logoOver = "twch_logo_ca.paa";
+tooltip = "TheWreckingCrew.eu";
+tooltipOwned = "TheWreckingCrew.eu Owned";
+overview = "The Tarantula Hawk is a backpack portable drone. Whilst limited in range, it features fantastic integration into existing battle systems.";
+overviewPicture = "twch_logo_ca.paa";
